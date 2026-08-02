@@ -24,8 +24,6 @@ This is the fastest way to build a complete, annotated tax document trail during
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://homebasedigital.gumroad.com/l/dlzvn)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/8x29ATaDdf6Q1decDWcZt3B)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://homebasedigital.gumroad.com/l/dlzvn)
 
 ## License
 
